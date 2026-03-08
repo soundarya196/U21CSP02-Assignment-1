@@ -2,7 +2,7 @@
 
 # 1 Poster Presentation + Linkedin
 > Enter the Linkedin Post URL
-> [Linkedin URL here]
+> [https://www.linkedin.com/posts/soundarya-babu-9a46b735a_dataengineering-dataanalysis-cloudcomputing-activity-7436398294861328385-vHGZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFly18wBpAkSiC7G7RoIXwmdBVI4LnOufFc]
 
 # 2 GitHub Students Developers Pack
 > Enter the GitHub Students Developers Pack Screenshot
