@@ -17,7 +17,7 @@
 # 5 AI-Assisted Note Creation using ChatGPT (Canvas) - Unit 3 Topic
 > https://chatgpt.com/share/69ada1b2-df9c-800d-b260-aa909e507c76
 ## GitHub repository link containing the uploaded .md file
-> 
+> https://github.com/soundarya196/Canvas_Assisted_Notes
 
 # 6 Secure File Upload to AWS S3 using Pre-Signed URL
 > Screenshot of the successful upload 
