@@ -9,7 +9,7 @@
 > [GitHub Students Developers Pack Screenshot]
 
 # 3 AI-Assisted Note Creation using NotebookLM - Unit 1 Topics
-> Enter the NotebookLM URL
+> https://notebooklm.google.com/notebook/48ae5db6-aabe-4cff-9e70-61744f5d3efd
 
 # 4 AI-Assisted Note Creation using Claude (Artifacts) - Unit 2 Topics
 > Enter the Claude (Artifacts) URL
