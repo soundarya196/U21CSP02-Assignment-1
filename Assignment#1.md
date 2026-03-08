@@ -12,10 +12,10 @@
 > https://notebooklm.google.com/notebook/48ae5db6-aabe-4cff-9e70-61744f5d3efd
 
 # 4 AI-Assisted Note Creation using Claude (Artifacts) - Unit 2 Topics
-> Enter the Claude (Artifacts) URL
+> https://claude.ai/share/e7dc2a95-94af-4afe-ae22-b81cc8d5012c
 
 # 5 AI-Assisted Note Creation using ChatGPT (Canvas) - Unit 3 Topic
-> Create a file question5.md and enter the content there
+> https://chatgpt.com/share/69ada1b2-df9c-800d-b260-aa909e507c76
 
 # 6 Secure File Upload to AWS S3 using Pre-Signed URL
 > Screenshot of the successful upload 
