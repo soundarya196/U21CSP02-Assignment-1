@@ -1,4 +1,4 @@
-# Assignment 1 Submissions
+Assignment 1 Submissions
 
 # 1 Poster Presentation + Linkedin
 ## Post URL
@@ -7,8 +7,11 @@
 > https://www.linkedin.com/in/soundarya-babu-9a46b735a/
 
 # 2 GitHub Students Developers Pack
-> Enter the GitHub Students Developers Pack Screenshot
-> [GitHub Students Developers Pack Screenshot]
+## LinkedIn Post URL:
+> https://www.linkedin.com/posts/soundarya-babu-9a46b735a_github-githubstudentdeveloperpack-learningbydoing-activity-7437022621243928576-uVUP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFly18wBpAkSiC7G7RoIXwmdBVI4LnOufFc
+## Screenshot of approval on Acedamic status and awaiting benefits
+> <img width="1783" height="860" alt="Screenshot 2026-03-10 115204" src="https://github.com/user-attachments/assets/ef1f7f3b-5cbc-434d-b5be-e7f1dd380b38" /># 
+
 
 # 3 AI-Assisted Note Creation using NotebookLM - Unit 1 Topics
 > https://notebooklm.google.com/notebook/48ae5db6-aabe-4cff-9e70-61744f5d3efd
