@@ -5,9 +5,12 @@ Assignment 1 Submissions
 > https://www.linkedin.com/posts/soundarya-babu-9a46b735a_dataengineering-dataanalysis-cloudcomputing-activity-7436398294861328385-vHGZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFly18wBpAkSiC7G7RoIXwmdBVI4LnOufFc
 ## Profile URL
 > https://www.linkedin.com/in/soundarya-babu-9a46b735a/
+## Poster
+> ![WhatsApp Image 2026-03-08 at 6 36 41 PM](https://github.com/user-attachments/assets/52cc2475-5eb1-4ad8-9f28-59fa2c784df1)
+
 
 # 2 GitHub Students Developers Pack
-## LinkedIn Post URL:
+## LinkedIn Post URL
 > https://www.linkedin.com/posts/soundarya-babu-9a46b735a_github-githubstudentdeveloperpack-learningbydoing-activity-7437022621243928576-uVUP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFly18wBpAkSiC7G7RoIXwmdBVI4LnOufFc
 ## Screenshot of approval on Acedamic status and awaiting benefits
 > <img width="1783" height="860" alt="Screenshot 2026-03-10 115204" src="https://github.com/user-attachments/assets/ef1f7f3b-5cbc-434d-b5be-e7f1dd380b38" /># 
