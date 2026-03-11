@@ -31,4 +31,8 @@ Assignment 1 Submissions
 > https://github.com/soundarya196/Canvas_Assisted_Notes
 
 # 6 Secure File Upload to AWS S3 using Pre-Signed URL
-> Screenshot of the successful upload 
+> Screenshot of the successful upload
+> <img width="1872" height="715" alt="Screenshot 2026-03-11 185552" src="https://github.com/user-attachments/assets/61de1c51-d888-4427-953b-cd413525b830" />
+
+> <img width="1530" height="698" alt="Screenshot 2026-03-11 185532" src="https://github.com/user-attachments/assets/8a160e81-0e87-49a6-beb2-3e085af5fc65" />
+
